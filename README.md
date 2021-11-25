@@ -8,6 +8,9 @@ This little software is meant as a handy little tool to give you a WYSIWYG exper
 This was mainly created as a little toy for myself, but I figured I might as well publically release this anyway.
 Depending on how mod support for WOH evolves, the tool *might* get expanded into allowing to edit encounters, characters and mysteries as well.
 
+## Download
+You can find the downloads [right here on the Release page](https://github.com/DekeDev/woh-edit-release/releases)
+
 ## How to use
 The first thing you should to is to click the **[SET MOD PATH]** button at the top to select your custom folder inside your WOH installation folder. Generally:
 `Steam/steamapps/common/WOH/custom`
