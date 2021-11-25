@@ -26,6 +26,7 @@ After that is done, you can start creating your events! There's **6** different 
 Allows you to create a new event card.
 ### Load Event
 Load an existing event card. Make sure that the card you'd like to load is inside the `custom` folder.
+
 **Important Info**: While the editor will do error checking and sanitizes most variables, I can't guarantee that it'll catch *everything*. So be aware of that when loading broken/janky event files.
 ### Save Event
 Save the current event. The filename will be generated from the event name and will be saved to the `custom` folder automatically. 
