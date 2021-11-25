@@ -1,2 +1,2 @@
-# woh-edit-release
+# WOHEdit
 Event Editor for WORLD OF HORROR
