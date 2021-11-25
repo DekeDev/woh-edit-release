@@ -14,12 +14,12 @@ The first thing you should to is to click the **[SET MOD PATH]** button at the t
 The program expects all data it loads being inside this `custom` folder, although you should be able to utilize as many sub-folders as you want to organize your events and images.
 
 After that is done, you can start creating your events! There's **6** different menus:
-* Top Menu
-* Card View
-* Base Settings
-* Option Settings
-* Nav Menu
-* Options Menu
+* [Top Menu](https://github.com/DekeDev/woh-edit-release#top-menu)
+* [Card View](https://github.com/DekeDev/woh-edit-release#card-view)
+* [Base Settings](https://github.com/DekeDev/woh-edit-release#card-view)
+* [Option Settings](https://github.com/DekeDev/woh-edit-release#option-settings)
+* [Nav Menu](https://github.com/DekeDev/woh-edit-release#nav-menu)
+* [Editor Options](https://github.com/DekeDev/woh-edit-release#editor-options)
 
 ## Top Menu
 ### New Event
@@ -103,7 +103,7 @@ This menu will allow you to navigate through your event paths.
 * **Success**: brings you to the success path for options `A`/`B`/`C`
 * **Failure**: brings you to the failure path for options `A`/`B`/`C`
 
-## Options Menu
+## Editor Options
 This menu currently has only one option.
 ### Window Size
 Scales the window up or down, not exceeding your maximum screen dimensions.
