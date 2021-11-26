@@ -95,6 +95,8 @@ Here you can select the `"prize"` a player will get on the selected path.
 * **Itempool**: will give the player a random item from a specific item pool
 ### Number
 Depending on the selected `Prize` the `Number` menu changes. It allows you to set stat changes or specify given items, spells or item pools.
+* **Unknown Items and Spells**: Items and Spells marked with a **`[!]`** are present in the game, but have unknown uses. Few of them work, many of them crash the game, some do nothing at all. I added those items for the sake of completeness, but be aware that using them in your mods is probably a bad idea for now.
+* **Spell Prizes**: Even though documented, right now it's not possible to actually get specific spells even if selected. You will always get a random spell. Unfortunately, this is likely nothing I can fix on my side, so we just have to see if future updates to WOH will fix this.
 ### EX Prize
 These will be given to the player in addition to the normal prizes. Works as above, although only **Stamina, Reason, Doom and Experience** are available for this one. You *can* set an `EX Prize` without setting a normal `Prize` and it is supported in-game, though not really intended (or sensible).
 ### EX Number
@@ -109,7 +111,8 @@ This menu will allow you to navigate through your event paths.
 * **Failure**: brings you to the failure path for options `A`/`B`/`C`
 
 ## Editor Options
-This menu currently has only one option.
+### Sound
+Enables/Disables the keyboard clicking sounds in-editor
 ### Window Size
 Scales the window up or down, not exceeding your maximum screen dimensions.
 
