@@ -8,6 +8,8 @@ This little software is meant as a handy little tool to give you a WYSIWYG exper
 This was mainly created as a little toy for myself, but I figured I might as well publically release this anyway.
 Depending on how mod support for WOH evolves, the tool *might* get expanded into allowing to edit encounters, characters and mysteries as well.
 
+![WOHEdit Screenshot](https://raw.githubusercontent.com/DekeDev/woh-edit-release/main/wohedit-screenshot.png)
+
 ## Download
 You can find the downloads [right here on the Release page](https://github.com/DekeDev/woh-edit-release/releases)
 
@@ -54,7 +56,7 @@ The editor will automatically crop images that are greater than those two dimens
 
 To create 2-bit artwork you can use the following base palette for your image. 
 
-![enter image description here](https://raw.githubusercontent.com/DekeDev/woh-edit-release/96b04e12022e3b6bfcbdc974e205d9b2fb23820a/woh_2bit_palette.png)
+![WOH Base Palette](https://raw.githubusercontent.com/DekeDev/woh-edit-release/96b04e12022e3b6bfcbdc974e205d9b2fb23820a/woh_2bit_palette.png)
 
 This is the same one that is used by WOH, so it should be accurate when looking at your event in-game.
 ### Flavour text
